@@ -1,4 +1,3 @@
-import React from 'react'
 import clsx from 'clsx'
 
 import { Button } from './button'
@@ -72,7 +71,7 @@ export function PaginationGap({ className, children = <>&hellip;</>, ...props })
       {...props}
       className={clsx(
         className,
-        'w-[2.25rem] select-none text-center text-sm/6 font-semibold text-zinc-950 dark:text-white'
+        'w-[2.25rem] text-center text-sm/6 font-semibold text-zinc-950 select-none dark:text-white'
       )}
     >
       {children}

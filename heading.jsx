@@ -1,4 +1,3 @@
-import React from 'react'
 import clsx from 'clsx'
 
 export function Heading({ className, level = 1, ...props }) {
