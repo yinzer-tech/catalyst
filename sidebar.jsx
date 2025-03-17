@@ -1,5 +1,4 @@
-'use client'
-
+import React from 'react'
 import * as Headless from '@headlessui/react'
 import clsx from 'clsx'
 import { LayoutGroup, motion } from 'framer-motion'

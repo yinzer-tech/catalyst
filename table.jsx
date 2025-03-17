@@ -1,5 +1,4 @@
-'use client'
-
+import React from 'react'
 import clsx from 'clsx'
 import { createContext, useContext, useState } from 'react'
 import { Link } from './link'

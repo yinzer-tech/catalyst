@@ -1,5 +1,4 @@
-'use client'
-
+import React from 'react'
 import * as Headless from '@headlessui/react'
 import { useState } from 'react'
 import { NavbarItem } from './navbar'
